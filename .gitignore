@@ -1,0 +1,10 @@
+Debug
+*.exe
+*.ilk
+*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.obj
+*.tlog
+*.vs
